@@ -1,0 +1,1 @@
+This is a simple web application based on the NodeJs Express and Mongodb
